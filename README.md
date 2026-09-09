@@ -1,6 +1,6 @@
 # Solo.doc.nina
 
-A beginner's guide to setting up a basic web-publishing workflow: an editor, a version-controlled repository, a live webpage, and a way to collaborate with others. You'll set these up once, but the core loop — *edit, commit, push* — repeats all semester, so it's worth understanding, not just clicking through.
+A beginner's guide to setting up a basic web-publishing workflow: an editor, a version-controlled repository, a live webpage, and a way to collaborate with others. You'll set these up once, but the core loop like *edit, commit, push* — repeats all semester, so it's worth understanding the flow.
 
 ## Before You Start: Navigating GitHub
 
@@ -18,10 +18,10 @@ Create a free [GitHub account](https://github.com/join), then install [GitHub De
 
 ## 3. Create a Repository
 
-Create a new **public** repository — public means anyone, including your grader, can view it without an account. Inside it, create a file named `index.html` containing a link back to the repo itself:
+Create a new **public** repository, public means anyone who has the link, including your professor, can view it without an account. Inside it, create a file named `index.html` containing a link back to the repo itself:
 
 ```html
-<a href="https://github.com/your-username/your-repo">Link to repository</a>
+<a href="https://github.com/ninaorta/Solo.doc.nina
 ```
 
 ## 4. Stage, Commit, Push
@@ -42,4 +42,4 @@ Add a collaborator under **Settings → Collaborators**. Have them edit a file a
 
 ## 7. Write This File
 
-Finally, create `README.md` at your repo's top level — you're reading its contents now. A README is the first thing visitors see, so it's where you explain what a project *is* and *how to use it*. Save, commit, and push it like any other change.
+Finally, create `README.md` at your repo's top level, and you're reading its contents now. A README is the first thing visitors see, so it's where you explain what a project *is* and *how to use it*. Save, commit, and push it like any other change.
