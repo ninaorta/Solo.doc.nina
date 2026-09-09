@@ -1,10 +1,10 @@
 # Solo.doc.nina
 
-A beginner's guide to setting up a basic web-publishing workflow: an editor, a version-controlled repository, a live webpage, and a way to collaborate with others. You'll set these up once, but the core loop like *edit, commit, push* — repeats all semester, so it's worth understanding the flow.
+A beginner's guide to setting up a basic web-publishing workflow: an editor, a version-controlled repository, a live webpage, and a way to collaborate with others. You'll set these up once, but the core loop like *edit, commit, push*  repeats all semester, so it's worth understanding the flow.
 
 ## Before You Start: Navigating GitHub
 
-GitHub's buttons move depending on what you're doing. **Commit changes** appears top-right when editing a file, at the bottom of the page when creating a new one, and disappears entirely when you're just viewing a file — there's nothing to save. **Repo-wide settings** (like Pages) live under the **Settings** tab; **file-level actions** (like adding a file) live inside the **Code** tab, near the file list. If a button seems missing, check which mode you're in before assuming something's broken.
+GitHub's buttons move depending on what you're doing. **Commit changes** appears top-right when editing a file, at the bottom of the page when creating a new one, and disappears entirely when you're just viewing a file, there's nothing to save. **Repo-wide settings** (like Pages) live under the **Settings** tab; **file-level actions** (like adding a file) live inside the **Code** tab, near the file list. If a button seems missing, check which mode you're in before assuming something's broken.
 
 ## 1. Install an Editor
 
@@ -14,7 +14,7 @@ Install [Visual Studio Code](https://code.visualstudio.com/), then add the **Mar
 
 Create a free [GitHub account](https://github.com/join), then install [GitHub Desktop](https://desktop.github.com/). GitHub *hosts* your repo online; Desktop gives you buttons for Git actions instead of typing commands.
 
-**Tip:** if Desktop can't find your local folder in VS Code, go to Desktop's **Integrations** settings and set VS Code as your external editor — then use the **"Open in Visual Studio Code"** button instead of hunting for the folder yourself.
+**Tip:** if Desktop can't find your local folder in VS Code, go to Desktop's **Integrations** settings and set VS Code as your external editor then use the **"Open in Visual Studio Code"** button instead of hunting for the folder yourself.
 
 ## 3. Create a Repository
 
@@ -42,4 +42,4 @@ Add a collaborator under **Settings → Collaborators**. Have them edit a file a
 
 ## 7. Write This File
 
-Finally, create `README.md` at your repo's top level, and you're reading its contents now. A README is the first thing visitors see, so it's where you explain what a project *is* and *how to use it*. Save, commit, and push it like any other change.
+Finally, create `README.md` at your repo's top level, and you're reading its contents now. A README is the first thing visitors see, so it's where you explain what a project *is* and *how to use it*. Save, commit, and push it like any other change. 
